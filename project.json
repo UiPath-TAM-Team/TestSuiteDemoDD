@@ -15,6 +15,7 @@
   "projectVersion": "1.0.91922527",
   "runtimeOptions": {
     "autoDispose": false,
+    "netFrameworkLazyLoading": false,
     "isPausable": true,
     "isAttended": false,
     "requiresUserInteraction": true,
@@ -63,12 +64,6 @@
         "editingStatus": "InProgress",
         "testCaseId": "1449f64c-f651-47e4-95b3-4776b6284a85",
         "fileName": "Test Cases\\Small Volume Loan.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "eaa3b534-53d7-4bba-bd89-4b9a0710453b",
-        "dataVariationFilePath": ".variations\\Loan Quotes_Loan Quotes_1.json",
-        "fileName": "data-driven-loan-ver2.xaml"
       },
       {
         "editingStatus": "Publishable",
