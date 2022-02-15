@@ -1,0 +1,122 @@
+{
+  "name": "UiBank Loan Academy",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[20.4.0-beta.889657]",
+    "UiPath.Testing.Activities": "[1.0.0-beta.887571]",
+    "UiPath.UIAutomation.Activities": "[20.4.1-preview]",
+    "UiPath.UIAutomationNext.Activities": "[20.4.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.0.0",
+  "projectVersion": "1.0.91922527",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "97f6af08-9e81-4197-afbd-ec2c4dd76b5b",
+        "fileName": "Test Cases\\High Volume Loan.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f3bb2543-8711-4acc-a491-e5d695522800",
+        "fileName": "Test Cases\\Long Loan Term.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "11ede70a-9255-4fcb-968d-d58fd0b6c637",
+        "fileName": "Test Cases\\Mid Term Loan.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "ffb7b3ee-6689-432d-a019-4bda644f8bde",
+        "fileName": "Test Cases\\Medium Volume Loan.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "1449f64c-f651-47e4-95b3-4776b6284a85",
+        "fileName": "Test Cases\\Small Volume Loan.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "eaa3b534-53d7-4bba-bd89-4b9a0710453b",
+        "dataVariationFilePath": ".variations\\Loan Quotes_Loan Quotes_1.json",
+        "fileName": "data-driven-loan-ver2.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "f9a32795-d8ad-44e5-8a60-c9656aa66bfc",
+        "dataVariationFilePath": ".variations\\Loan Quotes_Loan Quotes.json",
+        "fileName": "Test Cases\\Create data driven loan MULT.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "4924ebc0-0070-4adb-b5fe-b83fd29c731b",
+        "fileName": "Test Cases\\Create high volume loan - MULT.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "f78f80f6-7bda-4775-9575-52c041af0d1b",
+        "fileName": "Test Cases\\Create medium volume loan MULT.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d3e940a1-9627-46a3-8461-b39dd52a1038",
+        "fileName": "Test Cases\\Create small volume loan MULT.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "3eb7cb5a-bfa8-49da-b831-0ba89e984251",
+        "fileName": "Test Cases\\Create mid term loan - MULT.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "af127590-443e-45da-99a9-c66ac21fefb4",
+        "fileName": "Test Cases\\Create overvalue loan - MULT.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "96d95437-d6e8-4ee3-ac41-e13baf7ca869",
+        "fileName": "Test Cases\\Create short term loan - MULT.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "53a3bf5a-1f37-4669-bc6c-5ece52c762ab",
+        "fileName": "Test Cases\\Create admin.xaml"
+      }
+    ],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
